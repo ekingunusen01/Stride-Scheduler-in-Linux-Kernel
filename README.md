@@ -17,4 +17,4 @@ Two systemcalls defined. One for changing the scheduler to default or stride, th
 # Test case with 7 processes
 
 ![image alt](https://github.com/ekingunusen01/Simple-Database-Management-System/blob/master/dbms.png?raw=true)
-![image alt](https://github.com/ekingunusen01/Simple-Database-Management-System/blob/master/dbms.png?raw=true)
+![image alt](https://github.com/ekingunusen01/Stride-Scheduler-in-Linux-Kernel/blob/main/stride_7process.png)
