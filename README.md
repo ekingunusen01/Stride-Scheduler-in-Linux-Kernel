@@ -13,3 +13,8 @@ Stride scheduling algorithm is implemented to obtain more fair and predictable r
 # About the project
 
 Two systemcalls defined. One for changing the scheduler to default or stride, the other one is to assign the ticket value to the process. Made changes in files sched.c and fork.c.
+
+# Test case with 7 processes
+
+![image alt](https://github.com/ekingunusen01/Simple-Database-Management-System/blob/master/dbms.png?raw=true)
+![image alt](https://github.com/ekingunusen01/Simple-Database-Management-System/blob/master/dbms.png?raw=true)
